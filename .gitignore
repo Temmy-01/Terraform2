@@ -1,0 +1,18 @@
+# Terraform state files
+*.tfstate
+*.tfstate.*
+*.tfstate.backup
+
+# Terraform variable files
+*.tfvars
+*.tfvars.json
+
+# Terraform configuration files
+.terraform/
+.terraform/*
+
+# Terraform workspace files
+*.tfplan
+
+# Logs
+*.log
